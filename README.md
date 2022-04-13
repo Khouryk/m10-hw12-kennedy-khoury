@@ -72,3 +72,6 @@ Classes:
 - [setTimeout on W3](https://www.w3schools.com/jsref/met_win_settimeout.asp)
 - [JS Timing Events on W3](https://www.w3schools.com/js/js_timing.asp)
 - [setTimeout on MDN](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
+
+## Problems
+For the most part this assignment was pretty simple, I struggled a bit with setTimeout, I understood the concept but struggled with arranging setTimeout with the anonymous function. 
